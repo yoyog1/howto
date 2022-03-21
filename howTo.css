@@ -28,7 +28,7 @@
     padding: 50px 0;
   }
   main .mainImg {
-    background-image: url(images/recipe.jpeg);
+    background-image: url(recipe.jpeg);
     background-size: cover;
     background-position: right;
   }
